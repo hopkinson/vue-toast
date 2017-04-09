@@ -1,21 +1,8 @@
-# vue-toast
+vue-toast的小组件
+主要是看看Vue的插件怎么开发
+具体可以看
+https://hopkinson.github.io/2017/03/29/Vue%E6%8F%92%E4%BB%B6%E4%BD%A0%E6%9C%89%E4%BA%86%E8%A7%A3%E8%BF%87%E5%90%97/
 
-> toast
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
+项目启动
+npm install 
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
